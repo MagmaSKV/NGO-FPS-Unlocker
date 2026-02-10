@@ -36,7 +36,7 @@ or
 # Requirements
 
 - [NEEDY GIRL OVERDOSE](https://store.steampowered.com/app/1451940) (obviously)
-- BepInEx ([the official versions](https://github.com/BepInEx/BepInEx/releases), or a [pre-configured package created by amazeedaizee](https://gist.github.com/amazeedaizee/ae0dd70cc0d842d6a83cd80451e3752e#installing-a-preconfigured-bepinex-package) **(it has the installation steps)** (this one worked for me, but you can use the official one if you prefer)) (If the creator deletes the gist, [I made a copy just in case](https://github.com/MagmaSKV/NGO-FPS-Unlocker/howtobepinex-Backup.md#installing-a-preconfigured-bepinex-package). The downloads are the same as his, but I uploaded it myself. If his is available, use it! :D)
+- BepInEx ([the official versions](https://github.com/BepInEx/BepInEx/releases), or a [pre-configured package created by amazeedaizee](https://gist.github.com/amazeedaizee/ae0dd70cc0d842d6a83cd80451e3752e#installing-a-preconfigured-bepinex-package) **(it has the installation steps)** (this one worked for me, but you can use the official one if you prefer)) (If the creator deletes the gist, [I made a copy just in case](https://github.com/MagmaSKV/NGO-FPS-Unlocker/blob/main/howtobepinex-Backup.md#installing-a-preconfigured-bepinex-package). The downloads are the same as his, but I uploaded it myself. If his is available, use it! :D)
 
 # Usage
 
