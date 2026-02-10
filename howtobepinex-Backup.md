@@ -17,28 +17,30 @@ Instead of doing everything manually, you can instead download a BepInEx package
 > Note: In parentheses is the Unity version the game is built off of.
 > If you don't see a link for an OS related to a specific version, that means the previous link before that version is still valid.
 
+Here they are all listed: https://github.com/MagmaSKV/NGO-FPS-Unlocker/releases/tag/bepinex.1.0.0
+
 **For version 1.4.0:**
 <br/>
 **(2022.3.42):**
 <br/>
-Mac: https://drive.google.com/file/d/14hfjPfKvwi-LDC-jsCSmqxfnJXlggJR5/view?usp=sharing (uses Bepinex 5.4.23.2)
+Mac: https://github.com/MagmaSKV/NGO-FPS-Unlocker/releases/download/bepinex.1.0.0/BepInEx_osx_NGO_v1_4_0.zip (uses Bepinex 5.4.23.2)
 <br/> 
 **(2022.3.22):**
 <br/>
-Windows: https://drive.google.com/file/d/1ikHT1k3cCJG55c50DUGU3dgoE0vjjOLP/view?usp=sharing (uses Bepinex 5.4.23.2)
+Windows: https://github.com/MagmaSKV/NGO-FPS-Unlocker/releases/download/bepinex.1.0.0/BepInEx_1_4_0.zip (uses Bepinex 5.4.23.2)
 
 **For version 1.2.1+ (2022.3.15):**
 <br/>
-Windows: https://drive.google.com/file/d/1QNleDMYKVCpZFJRZJJ7i2fvXAARTIlsx/view?usp=sharing
+Windows: https://github.com/MagmaSKV/NGO-FPS-Unlocker/releases/download/bepinex.1.0.0/BepInEx_NGO_v1_2_1.zip
 <br/>
-Mac: https://drive.google.com/file/d/1FxjwzkbimBIUWrBGLefOTJjW5jiMBSAY/view?usp=sharing
+Mac: https://github.com/MagmaSKV/NGO-FPS-Unlocker/releases/download/bepinex.1.0.0/BepInEx_osx_NGO_v1_2_1.zip
 
 
 **For any version before 1.2.1 (2021.2.1):**
 <br/>
-Windows: https://drive.google.com/file/d/1I1-RAbZMgnNpJbJM4j07E2IZ9MQPLvxu/view?usp=sharing
+Windows: https://github.com/MagmaSKV/NGO-FPS-Unlocker/releases/download/bepinex.1.0.0/BepinEx_NGO.zip
 <br/>
-Mac: https://drive.google.com/file/d/1FgVxENShd13APoGnOWsMx5iMt2H9LD32/view?usp=sharing
+Mac: https://github.com/MagmaSKV/NGO-FPS-Unlocker/releases/download/bepinex.1.0.0/BepInEx_osx_NGO.zip
 
 You can check the comment or the description to see what version the package is using.
 
